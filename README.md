@@ -10,7 +10,7 @@ We will aim to make correlations between data and extrapolation of new data usin
 https://twelvedata.com/docs
 
 ### API Fetch/Get Screenshots
-![hoppscotch.jpg](..%2F..%2FDesktop%2Fhoppscotch.jpg)
+![hoppscotch.jpg](hoppscotch.jpg)
 
 ### Calling with Java
 
