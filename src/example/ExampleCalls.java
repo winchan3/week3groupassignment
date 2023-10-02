@@ -2,7 +2,7 @@ package example;
 
 public class ExampleCalls {
     public static void main(String[] args) {
-        String API_TOKEN = System.getenv("API_TOKEN");
+        String API_TOKEN = "e8af6cedf9mshf35e68a5b040250p12fc53jsne75b26c51cd0";
         String exchange = "NASDAQ";
         String format = "json";
         String symbol = "AMZN";
